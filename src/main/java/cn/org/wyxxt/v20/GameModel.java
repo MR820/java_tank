@@ -25,6 +25,7 @@ public class GameModel {
 
     private List<GameObject> objects = new ArrayList<>();
 
+    //Mediator模式 -》协调者模式，对内   Facade模式 -》 门面模式，对外
 
     public GameModel() {
         add(myTank);
