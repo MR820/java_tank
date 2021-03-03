@@ -10,6 +10,12 @@ import java.awt.*;
  * @time 2021/3/1 7:22 下午
  * @email jsjxzw@163.com
  */
+
+/**
+ * IO流
+ * reader and inputstream
+ * writer and outputstream
+ */
 public class RectDecorator extends GODecorator {
     public RectDecorator(GameObject go) {
         super(go);
